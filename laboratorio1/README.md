@@ -1,3 +1,3 @@
-# Laboratorio 1 – Campo Eléctrico y Equipotenciales
+# Laboratorio 1 – Campo y Potencial Eléctrico
 
-Este repositorio contiene un notebook en **Python** (`lab1.ipynb`) donde se desarrolla la simulación del campo eléctrico y las líneas equipotenciales.
+Este repositorio contiene un notebook en **Python** (`lab1.ipynb`) donde se desarrolla una simulación del campo y potencial eléctrico a través de distintos gráficos.
